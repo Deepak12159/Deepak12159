@@ -25,10 +25,10 @@
 
 ## 🧠 About Me
 
-- 🚀 Full Stack Developer with interest in **scalable systems & AI**
-- 🧩 I enjoy building real-world applications that solve problems
+- 🚀 Full Stack Developer focused on **scalable systems & AI**
+- 🧩 Passionate about building real-world applications  
 - 🌱 Currently learning **System Design & Advanced Backend**
-- ⚡ Focused on **clean code, performance, and usability**
+- ⚡ Strong focus on **clean code & performance**
 
 ---
 
@@ -67,28 +67,6 @@ Generates intelligent plans based on user input.
 
 ---
 
-### 🔹 Graph Keeper  
-🔗 https://github.com/Deepak12159/graph-keeper  
-
-Tool for working with graphs and algorithms.
-
-- ⚙️ Tech: JavaScript / Python  
-- 📌 Features: Graph operations, visualization  
-- 🧩 Focus: DSA & problem solving  
-
----
-
-### 🔹 Prachi Verse  
-🔗 https://github.com/Deepak12159/prachi-verse  
-
-Frontend-focused project with modern UI.
-
-- ⚙️ Tech: React, Tailwind CSS  
-- 🎨 Features: Responsive design, clean UI  
-- ✨ Focus: UI/UX  
-
----
-
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -119,7 +97,7 @@ Frontend-focused project with modern UI.
 
 ## 🎯 Current Focus
 
-- 🔥 Building production-ready full-stack apps  
+- 🔥 Building production-ready full-stack applications  
 - 📈 Improving DSA & system design  
 - 🤝 Contributing to open source  
 
