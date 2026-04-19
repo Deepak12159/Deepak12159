@@ -1,28 +1,23 @@
 <div align="center">
 
-<!-- HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Deepak%20Prajapati&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20Web%20Apps%20%7C%20ML%20Enthusiast%20%7C%20Open%20Source&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Deepak%20Prajapati&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Open%20Source&descAlignY=55" />
 
-<!-- TYPING INTRO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Explorer;Open+Source+Contributor;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Explorer;Building+Real+World+Projects;Always+Learning" />
 
 <br/><br/>
 
-<!-- SOCIALS -->
-<p>
-  <a href="https://www.linkedin.com/in/deepak-prajapati-caged-coder/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://github.com/deepakprajapati8938-del">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/caged.coder/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-  <a href="mailto:deepakprajapati8938@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/deepak-prajapati-caged-coder/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://github.com/deepakprajapati8938-del">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+<a href="https://www.instagram.com/caged.coder/">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+<a href="mailto:deepakprajapati8938@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 
 </div>
 
@@ -30,28 +25,67 @@
 
 ## 🧠 About Me
 
-- 🚀 Building **full-stack web apps + ML-powered systems**
-- 🧩 Love solving real-world problems with code  
-- 🌱 Currently exploring **system design & scalable architectures**
-- ⚡ Strong focus on **clean code + performance**
+- 🚀 Full Stack Developer with interest in **scalable systems & AI**
+- 🧩 I enjoy building real-world applications that solve problems
+- 🌱 Currently learning **System Design & Advanced Backend**
+- ⚡ Focused on **clean code, performance, and usability**
 
 ---
 
 ## 🚀 Featured Projects
 
-> (Replace with your best projects — this section matters more than tech stack)
+### 🔹 Internship Portal System  
+🔗 https://github.com/Deepak12159/Internship-Portal  
 
-- 🔹 **Project 1** – Short impactful description  
-  → Tech: React, Node.js, MongoDB  
-  → ⭐ What makes it special  
+A full-stack platform to manage internship workflows.
 
-- 🔹 **Project 2** – ML / AI based  
-  → Tech: Python, TensorFlow  
-  → 📊 Real-world use case  
+- ⚙️ Tech: React, Node.js, MongoDB  
+- 🔐 Features: Authentication, dashboards, role-based access  
+- 📈 Focus: Real-world application design  
 
-- 🔹 **Project 3** – Full-stack / SaaS  
-  → Tech: Next.js, PostgreSQL  
-  → 🚀 Scalable architecture  
+---
+
+### 🔹 AI Microservices Platform  
+🔗 https://github.com/Deepak12159/SpringBoot-AI-Microservices-main  
+
+Microservices-based backend integrated with AI components.
+
+- ⚙️ Tech: Spring Boot, REST APIs, Docker  
+- 🧠 Features: Modular architecture, service communication  
+- 🚀 Focus: Scalable backend systems  
+
+---
+
+### 🔹 AI Plan Generator  
+🔗 https://github.com/Deepak12159/AI-PLAN  
+
+Generates intelligent plans based on user input.
+
+- ⚙️ Tech: Python, Machine Learning  
+- 🤖 Features: Smart suggestions, structured outputs  
+- 📊 Focus: Practical AI usage  
+
+---
+
+### 🔹 Graph Keeper  
+🔗 https://github.com/Deepak12159/graph-keeper  
+
+Tool for working with graphs and algorithms.
+
+- ⚙️ Tech: JavaScript / Python  
+- 📌 Features: Graph operations, visualization  
+- 🧩 Focus: DSA & problem solving  
+
+---
+
+### 🔹 Prachi Verse  
+🔗 https://github.com/Deepak12159/prachi-verse  
+
+Frontend-focused project with modern UI.
+
+- ⚙️ Tech: React, Tailwind CSS  
+- 🎨 Features: Responsive design, clean UI  
+- ✨ Focus: UI/UX  
 
 ---
 
@@ -67,11 +101,12 @@
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=deepakprajapati8938-del&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://streak-stats.demolab.com?user=deepakprajapati8938-del&theme=tokyonight&hide_border=true"/>
 
 <br/>
@@ -84,15 +119,15 @@
 
 ## 🎯 Current Focus
 
-- 🔥 Building **production-ready applications**
-- 📈 Improving **DSA + system design**
-- 🤝 Contributing to **open source**
+- 🔥 Building production-ready full-stack apps  
+- 📈 Improving DSA & system design  
+- 🤝 Contributing to open source  
 
 ---
 
 ## 💡 Dev Philosophy
 
-> "Code is not just about solving problems — it's about solving them **well, cleanly, and at scale**."
+> Code is not just about solving problems — it's about solving them **cleanly, efficiently, and at scale**.
 
 ---
 
